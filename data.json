@@ -1,0 +1,81 @@
+{
+  "nouns": [
+    ["tijd", "time", "de"], ["jaar", "year", "het"], ["man", "man", "de"], ["dag", "day", "de"],
+    ["ding", "thing", "het"], ["vrouw", "woman", "de"], ["leven", "life", "het"], ["kind", "child", "het"],
+    ["wereld", "world", "de"], ["land", "country", "het"], ["probleem", "problem", "het"], ["hand", "hand", "de"],
+    ["deel", "part", "het"], ["plaats", "place", "de"], ["werk", "work", "het"], ["week", "week", "de"],
+    ["punt", "point", "het"], ["huis", "house", "het"], ["water", "water", "het"], ["moeder", "mother", "de"],
+    ["woord", "word", "het"], ["geld", "money", "het"], ["feit", "fact", "het"], ["boek", "book", "het"],
+    ["maand", "month", "de"], ["oog", "eye", "het"], ["vriend", "friend", "de"], ["stad", "city", "de"],
+    ["auto", "car", "de"], ["vader", "father", "de"], ["verhaal", "story", "het"], ["jongen", "boy", "de"],
+    ["meisje", "girl", "het"], ["uur", "hour", "het"], ["naam", "name", "de"], ["nacht", "night", "de"],
+    ["vraag", "question", "de"], ["tafel", "table", "de"], ["stoel", "chair", "de"], ["bed", "bed", "het"],
+    ["raam", "window", "het"], ["deur", "door", "de"], ["sleutel", "key", "de"], ["boom", "tree", "de"],
+    ["bloem", "flower", "de"], ["hond", "dog", "de"], ["kat", "cat", "de"], ["paard", "horse", "het"],
+    ["dier", "animal", "het"], ["zon", "sun", "de"], ["maan", "moon", "de"], ["ster", "star", "de"],
+    ["lucht", "sky", "de"], ["zee", "sea", "de"], ["strand", "beach", "het"], ["berg", "mountain", "de"],
+    ["bos", "forest", "het"], ["straat", "street", "de"], ["weg", "road", "de"], ["plein", "square", "het"],
+    ["station", "station", "het"], ["trein", "train", "de"], ["fiets", "bike", "de"], ["vliegtuig", "airplane", "het"],
+    ["boot", "boat", "de"], ["kaart", "ticket", "de"], ["bank", "bank", "de"], ["winkel", "shop", "de"],
+    ["markt", "market", "de"], ["prijs", "price", "de"], ["brood", "bread", "het"], ["kaas", "cheese", "de"],
+    ["vlees", "meat", "het"], ["vis", "fish", "de"], ["fruit", "fruit", "het"], ["groente", "vegetable", "de"],
+    ["koffie", "coffee", "de"], ["thee", "tea", "de"], ["bier", "beer", "het"], ["wijn", "wine", "de"],
+    ["melk", "milk", "de"], ["suiker", "sugar", "de"], ["zout", "salt", "het"], ["peper", "pepper", "de"],
+    ["soep", "soup", "de"], ["ei", "egg", "het"], ["kip", "chicken", "de"], ["varken", "pig", "het"],
+    ["koe", "cow", "de"], ["schaap", "sheep", "het"], ["kleding", "clothing", "de"], ["jas", "coat", "de"],
+    ["broek", "pants", "de"], ["trui", "sweater", "de"], ["shirt", "shirt", "het"], ["schoen", "shoe", "de"],
+    ["sok", "sock", "de"], ["hoed", "hat", "de"], ["bril", "glasses", "de"], ["tas", "bag", "de"],
+    ["ring", "ring", "de"], ["horloge", "watch", "het"], ["kleur", "color", "de"], ["rood", "red", "het"],
+    ["blauw", "blue", "het"], ["groen", "green", "het"], ["geel", "yellow", "het"], ["zwart", "black", "het"],
+    ["wit", "white", "het"], ["grijs", "gray", "het"], ["bruin", "brown", "het"], ["hoofd", "head", "het"],
+    ["haar", "hair", "het"], ["oor", "ear", "het"], ["neus", "nose", "de"], ["mond", "mouth", "de"],
+    ["tand", "tooth", "de"], ["lip", "lip", "de"], ["tong", "tongue", "de"], ["nek", "neck", "de"],
+    ["schouder", "shoulder", "de"], ["rug", "back", "de"], ["borst", "chest", "de"], ["hart", "heart", "het"],
+    ["maag", "stomach", "de"], ["arm", "arm", "de"], ["been", "leg", "het"], ["knie", "knee", "de"],
+    ["voet", "foot", "de"], ["huid", "skin", "de"], ["gezicht", "face", "het"], ["lichaam", "body", "het"],
+    ["ochtend", "morning", "de"], ["middag", "afternoon", "de"], ["avond", "evening", "de"], ["seizoen", "season", "het"],
+    ["lente", "spring", "de"], ["zomer", "summer", "de"], ["herfst", "autumn", "de"], ["winter", "winter", "de"],
+    ["familie", "family", "de"], ["broer", "brother", "de"], ["zus", "sister", "de"], ["ouders", "parents", "de"]
+  ],
+  "verbs": [
+    ["zijn", "ik", "Present", "ben", "to be"], ["zijn", "jij", "Present", "bent", "to be"], ["zijn", "hij/zij", "Present", "is", "to be"], ["zijn", "wij", "Present", "zijn", "to be"], ["zijn", "jullie", "Present", "zijn", "to be"], ["zijn", "zij", "Present", "zijn", "to be"],
+    ["zijn", "ik", "Past", "was", "to be"], ["zijn", "jij", "Past", "was", "to be"], ["zijn", "hij/zij", "Past", "was", "to be"], ["zijn", "wij", "Past", "waren", "to be"], ["zijn", "jullie", "Past", "waren", "to be"], ["zijn", "zij", "Past", "waren", "to be"],
+    ["zijn", "ik", "Perfect", "ben geweest", "to be"], ["zijn", "jij", "Perfect", "bent geweest", "to be"], ["zijn", "hij/zij", "Perfect", "is geweest", "to be"], ["zijn", "wij", "Perfect", "zijn geweest", "to be"], ["zijn", "jullie", "Perfect", "zijn geweest", "to be"], ["zijn", "zij", "Perfect", "zijn geweest", "to be"],
+
+    ["hebben", "ik", "Present", "heb", "to have"], ["hebben", "jij", "Present", "hebt", "to have"], ["hebben", "hij/zij", "Present", "heeft", "to have"], ["hebben", "wij", "Present", "hebben", "to have"], ["hebben", "jullie", "Present", "hebben", "to have"], ["hebben", "zij", "Present", "hebben", "to have"],
+    ["hebben", "ik", "Past", "had", "to have"], ["hebben", "jij", "Past", "had", "to have"], ["hebben", "hij/zij", "Past", "had", "to have"], ["hebben", "wij", "Past", "hadden", "to have"], ["hebben", "jullie", "Past", "hadden", "to have"], ["hebben", "zij", "Past", "hadden", "to have"],
+    ["hebben", "ik", "Perfect", "heb gehad", "to have"], ["hebben", "jij", "Perfect", "hebt gehad", "to have"], ["hebben", "hij/zij", "Perfect", "heeft gehad", "to have"], ["hebben", "wij", "Perfect", "hebben gehad", "to have"], ["hebben", "jullie", "Perfect", "hebben gehad", "to have"], ["hebben", "zij", "Perfect", "hebben gehad", "to have"],
+
+    ["gaan", "ik", "Present", "ga", "to go"], ["gaan", "jij", "Present", "gaat", "to go"], ["gaan", "hij/zij", "Present", "gaat", "to go"], ["gaan", "wij", "Present", "gaan", "to go"], ["gaan", "jullie", "Present", "gaan", "to go"], ["gaan", "zij", "Present", "gaan", "to go"],
+    ["gaan", "ik", "Past", "ging", "to go"], ["gaan", "jij", "Past", "ging", "to go"], ["gaan", "hij/zij", "Past", "ging", "to go"], ["gaan", "wij", "Past", "gingen", "to go"], ["gaan", "jullie", "Past", "gingen", "to go"], ["gaan", "zij", "Past", "gingen", "to go"],
+    ["gaan", "ik", "Perfect", "ben gegaan", "to go"], ["gaan", "jij", "Perfect", "bent gegaan", "to go"], ["gaan", "hij/zij", "Perfect", "is gegaan", "to go"], ["gaan", "wij", "Perfect", "zijn gegaan", "to go"], ["gaan", "jullie", "Perfect", "zijn gegaan", "to go"], ["gaan", "zij", "Perfect", "zijn gegaan", "to go"],
+    
+    ["doen", "ik", "Present", "doe", "to do"], ["doen", "jij", "Present", "doet", "to do"], ["doen", "hij/zij", "Present", "doet", "to do"], ["doen", "wij", "Present", "doen", "to do"], ["doen", "jullie", "Present", "doen", "to do"], ["doen", "zij", "Present", "doen", "to do"],
+    ["doen", "ik", "Past", "deed", "to do"], ["doen", "jij", "Past", "deed", "to do"], ["doen", "hij/zij", "Past", "deed", "to do"], ["doen", "wij", "Past", "deden", "to do"], ["doen", "jullie", "Past", "deden", "to do"], ["doen", "zij", "Past", "deden", "to do"],
+    ["doen", "ik", "Perfect", "heb gedaan", "to do"], ["doen", "jij", "Perfect", "hebt gedaan", "to do"], ["doen", "hij/zij", "Perfect", "heeft gedaan", "to do"], ["doen", "wij", "Perfect", "hebben gedaan", "to do"], ["doen", "jullie", "Perfect", "hebben gedaan", "to do"], ["doen", "zij", "Perfect", "hebben gedaan", "to do"],
+
+    ["komen", "ik", "Present", "kom", "to come"], ["komen", "jij", "Present", "komt", "to come"], ["komen", "hij/zij", "Present", "komt", "to come"], ["komen", "wij", "Present", "komen", "to come"], ["komen", "jullie", "Present", "komen", "to come"], ["komen", "zij", "Present", "komen", "to come"],
+    ["komen", "ik", "Past", "kwam", "to come"], ["komen", "jij", "Past", "kwam", "to come"], ["komen", "hij/zij", "Past", "kwam", "to come"], ["komen", "wij", "Past", "kwamen", "to come"], ["komen", "jullie", "Past", "kwamen", "to come"], ["komen", "zij", "Past", "kwamen", "to come"],
+    ["komen", "ik", "Perfect", "ben gekomen", "to come"], ["komen", "jij", "Perfect", "bent gekomen", "to come"], ["komen", "hij/zij", "Perfect", "is gekomen", "to come"], ["komen", "wij", "Perfect", "zijn gekomen", "to come"], ["komen", "jullie", "Perfect", "zijn gekomen", "to come"], ["komen", "zij", "Perfect", "zijn gekomen", "to come"]
+  ],
+  "prepositions": [
+    ["Ik ga ___ school.", "naar", "I am going to school."],
+    ["Het boek ligt ___ de tafel.", "op", "The book is on the table."],
+    ["Wij wonen ___ Nederland.", "in", "We live in the Netherlands."],
+    ["Hij wacht ___ de bus.", "op", "He is waiting for the bus."],
+    ["Zij geeft het cadeau ___ hem.", "aan", "She gives the gift to him."],
+    ["Ik kom ___ Amsterdam.", "uit", "I come from Amsterdam."],
+    ["Wij reizen ___ de trein.", "met", "We travel by train."],
+    ["De lamp hangt ___ de tafel.", "boven", "The lamp hangs above the table."],
+    ["De hond slaapt ___ het bed.", "onder", "The dog sleeps under the bed."]
+  ],
+  "sentences": [
+    ["Ik heb gisteren een appel gegeten.", "I ate an apple yesterday."],
+    ["Omdat het regent, blijf ik thuis.", "Because it is raining, I am staying home."],
+    ["Morgen ga ik naar de supermarkt.", "Tomorrow I am going to the supermarket."],
+    ["Hij wil een nieuwe auto kopen.", "He wants to buy a new car."],
+    ["Ik denk dat hij morgen komt.", "I think that he is coming tomorrow."],
+    ["Wij hebben een leuk weekend gehad.", "We had a nice weekend."],
+    ["Zij leest een boek in de tuin.", "She is reading a book in the garden."]
+  ]
+}
